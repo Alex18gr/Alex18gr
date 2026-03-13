@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=ghost&logoColor=white" alt="Website" />
   </a>
 </p>
+
 I'm a passionate Software Developer and MSc graduate of Computer Science with a focus on modern web technologies. Currently working as a **Senior Full-stack Software Engineer** at **Deloitte**, specializing in building scalable enterprise applications.
 
 ---
@@ -23,6 +24,7 @@ I'm a passionate Software Developer and MSc graduate of Computer Science with a 
 
 ### 🛠️ Tech Stack & Skills
 **Core Technologies:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -33,6 +35,7 @@ I'm a passionate Software Developer and MSc graduate of Computer Science with a 
 </p>
 
 **Cloud & DevOps:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
